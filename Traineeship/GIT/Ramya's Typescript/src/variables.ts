@@ -20,7 +20,7 @@ var city = "Canberra";
 console.log("City = " + city);
 
 let Name1 = "Ramya";
-let Age1 = 36;
+let Age1 = 35;
 let city1 = "Canberra";
 
 console.log("Name = "+ Name1);
